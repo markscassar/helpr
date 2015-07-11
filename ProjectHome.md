@@ -1,0 +1,1 @@
+Drawing on ITIL fundamentals, helpr is a lightweight object oriented helpdesk solution powered by PHP and MySQL. Extensions can be written to enable new functionality.
